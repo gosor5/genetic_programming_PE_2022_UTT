@@ -1,0 +1,25 @@
+
+
+ best_d_params_1
+ Div(Add(log(Mul(Mul(Symc, x_0), Mul(Symc, i))), Symc), exp(Symc))
+ fitness and length : (0.2475300432909301, 13.0)
+ - constant optimization : [-0.24414039 -0.24415659 -2.43131611  1.53519575] best_d_params_2
+
+
+exp(Div(Symc, Sub(x_0, Symc)))
+
+ fitness and length : (0.2533471253655851, 6.0)
+ - constant optimization : [-1874.07980087 -1550.81613273] best_d_params_3
+
+exp(log(log(Sub(log(Add(x_0, Symc)), Sub(Div(Symc, i), log(Symc))))))
+
+ fitness and length : (0.2512269592722322, 14.0)
+ - constant optimization : [ 2.49561477e+03 -1.42449182e-04  1.47566640e-03] best_d_params_4
+
+Mul(log(Sub(Symc, Mul(Mul(Symc, Add(exp(Symc), log(i))), Mul(Div(Div(Symc, Div(Add(exp(Div(Mul(x_0, Symc), Div(Symc, i))), Mul(Div(Add(x_0, Symc), Sub(x_0, Symc)), log(Div(x_0, Symc)))), Sub(Sub(Sub(Add(Symc, x_0), exp(Symc)), Sub(Mul(i, Symc), Div(Symc, i))), Div(Mul(Div(x_0, x_0), Mul(Symc, x_0)), Div(Add(x_0, i), Div(x_0, x_0)))))), Sub(i, Symc)), exp(Add(exp(Div(Mul(Symc, Sub(Symc, Symc)), Add(Add(x_0, Symc), Div(i, Symc)))), x_0)))))), Symc)
+
+ fitness and length : (0.00022492590155416791, 89.0)
+ - constant optimization : [ 0.81491065  0.24295983 -4.12707026  1.79044434  5.24083635  1.31756633
+ -0.25201629  0.35426993  1.9876283  -1.01931168 -3.24652402 -0.16275732
+ -0.16275732 -0.60271733  2.97436025  0.44015565  1.67388782 -1.37978605
+  0.57301179 -1.86084392  0.33032083] 

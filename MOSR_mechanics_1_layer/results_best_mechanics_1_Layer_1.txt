@@ -1,0 +1,18 @@
+best_mechanics_1_Layer_1
+
+exp(exp(Add(Symc, Div(Add(Symc, x_0), exp(Add(log(Symc), Mul(Symc, Symc)))))))
+
+ fitness and length : (0.04962521429071223, 15.0)
+ - constant optimization : [2.88315051 4.96791851 0.79776121 1.90891564 1.90891564] best_mechanics_1_Layer_up_to_date
+
+Mul(Add(Sub(Mul(exp(Symc), exp(x_0)), Add(log(Symc), exp(x_0))), Add(Div(Mul(Symc, Symc), x_0), log(Mul(x_0, Symc)))), exp(exp(exp(Symc))))
+
+ fitness and length : (0.006048271240252488, 27.0)
+ - constant optimization : [ 0.00886554  3.67436422 -0.99927226 -0.99927226  1.35068367  1.15348719] best_mechanics_1_Layer_up_to_date_wo_exp
+
+Add(Mul(Mul(Symc, Div(Symc, x_0)), x_0), Mul(Mul(Add(Symc, Symc), Add(Symc, x_0)), Mul(Add(x_0, x_0), Add(Mul(Div(Add(Symc, Symc), Mul(x_0, Symc)), Add(Mul(Symc, x_0), Add(x_0, Symc))), Div(x_0, Div(Sub(Div(Mul(x_0, x_0), Mul(x_0, x_0)), Symc), Div(x_0, Symc)))))))
+
+ fitness and length : (0.0018894891252597835, 51.0)
+ - constant optimization : [ 1.00000000e+00  1.00000000e+00  2.32650203e+03  2.32650261e+03
+  3.74412088e+04 -2.35881605e-02 -2.35882523e-02 -7.23981474e-01
+  1.88286735e+02 -1.97909173e+02  9.97569912e-01  8.27551240e+02] 
